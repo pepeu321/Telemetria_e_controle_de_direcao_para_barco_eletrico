@@ -1,5 +1,16 @@
-Aqui está o circuito montado na protoboard:
+Diagrama de blocos preliminar do projeto:
 
 ![Diagrama de blocos](DiagramaDeBlocos.jpg)
 
-Podemos observar que o LED está ligado ao resistor de 220Ω.
+Legenda:
+
+1 - 
+2 - 
+3 -
+4 - 
+5 - 
+6 - 
+7 - 
+8 - 
+9 -
+
