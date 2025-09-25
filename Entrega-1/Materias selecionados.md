@@ -1,4 +1,4 @@
-## Relatórios do Projeto
+## Componentes
 
 Sensor de tensão:
 
